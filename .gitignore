@@ -9,9 +9,6 @@ thumb/
 !/templates/*.html
 !/inc/config.php
 
-# minify
-/inc/lib/minify
-
 # instance-config
 /inc/instance-config.php
 
@@ -73,3 +70,4 @@ favicon.ico
 # Images from twemoji
 js/twemoji/16x16/
 /.vs
+/vendor/
